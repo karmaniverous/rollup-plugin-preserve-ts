@@ -1,9 +1,9 @@
 # rollup-plugin-preserve-ts
 
 > **JUST TESTING AN IDEA!**
-> 
+>
 > Want to kick it around with me? [Start a discussion!](https://github.com/karmaniverous/rollup-plugin-preserve-ts/discussions)
-> 
+>
 > Think I should build it? **STAR THE REPO!**
 
 ---
@@ -25,3 +25,7 @@ The idea is to create a Rollup plugin that...
 Here's [an exploration of the idea](https://chatgpt.com/share/6720731f-0850-800e-b303-f5fbef5c11c7) with ChatGPT o1-mini.
 
 Should I build it? **STAR THE REPO** to vote YES!
+
+---
+
+Built with ❤️ on Bali! Find more great tools & templates on [my GitHub Profile](https://github.com/karmaniverous).
