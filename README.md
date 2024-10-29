@@ -22,4 +22,6 @@ The idea is to create a Rollup plugin that...
 - Consolidates all of your TS files into a single, bundled file.
 - Eliminates internal imports & consolidates external imports to the top of the file.
 
+Here's [an exploration of the idea](https://chatgpt.com/share/6720731f-0850-800e-b303-f5fbef5c11c7) with ChatGPT o1-mini.
+
 Should I build it? **STAR THE REPO** to vote YES!
